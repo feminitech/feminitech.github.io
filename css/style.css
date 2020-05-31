@@ -6,27 +6,27 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
-  --blue: #007bff;
-  --indigo: #6610f2;
-  --purple: #6f42c1;
-  --pink: #e83e8c;
-  --red: #dc3545;
-  --orange: #fd7e14;
-  --yellow: #ffc107;
-  --green: #28a745;
-  --teal: #20c997;
-  --cyan: #17a2b8;
-  --white: #fff;
-  --gray: #6c757d;
-  --gray-dark: #343a40;
-  --primary: #000637;
-  --secondary: #bbbbf2;
-  --success: #5ed6b3;
-  --info: #1998ff;
-  --warning: #ffad00;
-  --danger: #ff0000;
-  --light: #fc7341;
-  --dark: #221e1e;
+  --blue: #54bbdb;
+  --indigo: #54bbdb;
+  --purple: #54bbdb;
+  --pink: #fbbcc3;
+  --red: #fbbcc3;
+  --orange: #fbbcc3;
+  --yellow: #fbbcc3;
+  --green: #54bbdb;
+  --teal: #54bbdb;
+  --cyan: #54bbdb;
+  --white: #f1eee5;
+  --gray: #5c6261;
+  --gray-dark: #5c6261;
+  --primary: #111111;
+  --secondary: #f1eee5;
+  --success: #54bbdb;
+  --info: #54bbdb;
+  --warning: #fbbcc3;
+  --danger: #fbbcc3;
+  --light: #fbbcc3;
+  --dark: #111111;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
